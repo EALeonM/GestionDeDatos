@@ -1,0 +1,54 @@
+StaffID,Name,Medical_Department,Years_Experience,Academic_Level,Age,Gender,City,Monthly_Compensation,Start_Date
+1,Employee_1,Emergency Room,24.0,Master,37,Male,New York,113696.0,2023-08-12
+2,Employee_2,Emergency Room,19.0,PhD,24,Male,Boston,91237.0,2020-07-02
+3,Employee_3,ER,7.0,PhD,36,Female,Houston,25851.0,2024-01-08
+4,Employee_4,Cardiology,11.0,Master,31,Male,Chicago,74797.0,2009-03-03
+5,Employee_5,Pediatrics,20.0,Master,24,Female,Houston,74615.0,2008-10-07
+6,Employee_6,Radiology,,Bachelor,26,Male,New York,35458.0,2012-03-22
+7,Employee_7,Cardiology,9.0,PhD,45,Male,Chicago,112841.0,2012-12-27
+8,Employee_8,Emergency Room,20.0,Bachelor,56,Male,New York,60382.0,2021-05-09
+9,Employee_9,Surgery,22.0,Master,25,Male,Boston,77581.0,2013-01-02
+10,Employee_10,ER,19.0,Master,35,Female,Los Angeles,109259.0,2017-04-16
+11,Employee_11,ER,5.0,,57,Female,Houston,101484.0,2015-12-16
+12,Employee_12,Surgery,17.0,PhD,27,Male,Boston,45969.0,2024-10-06
+13,Employee_13,Radiology,3.0,PhD,46,Female,Houston,97512.0,2007-04-05
+14,Employee_14,Emergency Room,22.0,Master,43,Male,Chicago,84470.0,2007-01-27
+15,Employee_15,Pediatrics,17.0,Bachelor,54,Male,Chicago,91540.0,2020-08-28
+16,Employee_16,Pediatrics,25.0,Bachelor,56,Male,Houston,27552.0,2009-07-05
+17,Employee_17,Pediatrics,8.0,High School,37,Male,Boston,131957.0,2008-07-20
+18,Employee_18,Radiology,25.0,Bachelor,30,Female,Houston,94163.0,2020-08-09
+19,Employee_19,Surgery,,Bachelor,41,Female,Chicago,92839.0,2017-02-15
+20,Employee_20,ER,8.0,High School,43,Male,Houston,102128.0,2011-12-10
+21,Employee_21,ER,23.0,High School,36,Male,Boston,34287.0,2018-07-13
+22,Employee_22,Cardiology,7.0,Bachelor,58,Female,New York,130840.0,2016-02-17
+23,Employee_23,Emergency Room,22.0,PhD,44,Female,Los Angeles,120561.0,2008-03-19
+24,Employee_24,Emergency Room,2.0,PhD,43,Male,New York,95292.0,2017-01-23
+25,Employee_25,ER,6.0,Master,51,Male,Boston,97132.0,2009-03-13
+26,Employee_26,ER,18.0,High School,27,Male,New York,88092.0,2011-10-18
+27,Employee_27,Emergency Room,6.0,PhD,22,Female,Chicago,127908.0,2017-03-16
+28,Employee_28,Radiology,22.0,PhD,31,Male,Chicago,32665.0,2019-12-28
+29,Employee_29,Emergency Room,24.0,Master,25,Male,Houston,94615.0,2010-07-13
+30,Employee_30,ER,17.0,High School,33,Male,Houston,55828.0,2016-01-21
+31,Employee_31,ER,19.0,Bachelor,59,Male,Houston,111163.0,2020-02-03
+32,Employee_32,Pediatrics,9.0,Bachelor,42,Male,Chicago,113039.0,2021-06-23
+33,Employee_33,Pediatrics,25.0,High School,22,Female,Houston,,2008-08-23
+34,Employee_34,Radiology,9.0,Bachelor,44,Male,New York,45676.0,2016-10-29
+35,Employee_35,Pediatrics,20.0,High School,57,Female,Boston,42601.0,2012-12-06
+36,Employee_36,ER,4.0,Bachelor,39,Female,Houston,69942.0,2011-07-26
+37,Employee_37,Pediatrics,17.0,PhD,38,Male,Boston,133704.0,2013-03-16
+38,Employee_38,ER,11.0,Bachelor,38,Male,Los Angeles,81057.0,2019-07-31
+39,Employee_39,ER,3.0,Bachelor,56,Male,Chicago,44410.0,2016-08-21
+40,Employee_40,ER,10.0,Master,24,Female,New York,112416.0,2009-04-22
+41,Employee_41,Radiology,14.0,Bachelor,37,Male,New York,28248.0,2011-01-09
+42,Employee_42,Pediatrics,14.0,Bachelor,39,Male,Boston,30075.0,2017-07-22
+43,Employee_43,Cardiology,12.0,,36,Male,Boston,,2014-05-13
+44,Employee_44,Emergency Room,25.0,Master,44,Female,Houston,28617.0,2009-08-02
+45,Employee_45,Pediatrics,6.0,Master,24,Male,Houston,120491.0,2024-08-21
+46,Employee_46,Radiology,17.0,High School,46,Male,Chicago,154288.0,2007-01-14
+47,Employee_47,Radiology,22.0,Bachelor,45,Female,Boston,68279.0,2020-12-22
+48,Employee_48,Emergency Room,24.0,,54,Female,Los Angeles,116384.0,2013-08-19
+49,Employee_49,Surgery,14.0,PhD,33,Female,Los Angeles,25053.0,2013-10-25
+50,Employee_50,Cardiology,19.0,Master,51,Female,Los Angeles,92000.0,2017-08-12
+41,Employee_41,Radiology,14.0,Bachelor,37,Male,New York,28248.0,2011-01-09
+40,Employee_40,ER,10.0,Master,24,Female,New York,112416.0,2009-04-22
+101,Executive_Hospital,Emergency Room,25.0,PhD,55,Male,Boston,500000.0,2010-01-15
